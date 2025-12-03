@@ -1,4 +1,1 @@
-/.cache
-/drives
-/efi
-/iso/*.iso
+/.machines

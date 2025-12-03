@@ -8,3 +8,10 @@ QEMU/KVM setup for building ISO, creating, editing scripts and much more.
 ```bash
 ./bin/start.sh install
 ```
+
+```bash
+# /etc/nsswitch.conf
+...
+hosts: ... files libvirt libvirt_guest ...
+...
+```
